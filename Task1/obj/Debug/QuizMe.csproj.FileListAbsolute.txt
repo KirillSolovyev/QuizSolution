@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\QuizMe\QuizMe\bin\Debug\QuizMe.exe.config
+C:\Users\Kirill\source\repos\QuizMe\QuizMe\bin\Debug\QuizMe.exe
+C:\Users\Kirill\source\repos\QuizMe\QuizMe\bin\Debug\QuizMe.pdb
+C:\Users\Kirill\source\repos\QuizMe\QuizMe\obj\Debug\QuizMe.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\QuizMe\QuizMe\obj\Debug\QuizMe.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\QuizMe\QuizMe\obj\Debug\QuizMe.exe
+C:\Users\Kirill\source\repos\QuizMe\QuizMe\obj\Debug\QuizMe.pdb
